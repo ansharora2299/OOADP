@@ -1,6 +1,4 @@
-package tryFactoryMethod;
-
 public interface Customer {
+	void printType();
 
-	void getType();
 }
